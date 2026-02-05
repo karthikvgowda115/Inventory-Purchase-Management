@@ -1,0 +1,16 @@
+/* src/pages/vendors/vendor.css */
+
+.vendor-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.vendor-form {
+  max-width: 500px;
+}
+
+.table-actions button {
+  margin-right: 8px;
+}
