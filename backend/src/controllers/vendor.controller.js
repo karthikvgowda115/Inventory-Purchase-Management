@@ -19,7 +19,7 @@ export const getVendors = async (req, res, next) => {
     next(error);
   }
 };
-
+   
 // Get single vendor
 export const getVendorById = async (req, res, next) => {
   try {
